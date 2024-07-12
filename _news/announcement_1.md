@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+July, 2024: Priviledged to receive the [CMLH Fellowship in Digital Health Innovations](https://www.cs.cmu.edu/cmlh/digital-health-fellows), 2024.
