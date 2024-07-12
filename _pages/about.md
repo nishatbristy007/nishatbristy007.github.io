@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! 
 
-I am a second year PhD student in the Ray and Stephanie Lane Computational Biology Department at Carnegie Mellon University. I am honored to be advised by [Prof. Russell Schwartz](https://cbd.cmu.edu/people/schwartz.html). 
+I am a second year PhD student in the Ray and Stephanie Lane Computational Biology Department at Carnegie Mellon University. I am honored to be advised by [Prof. Russell Schwartz](https://labs.bio.cmu.edu/schwartz/). 
 You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
