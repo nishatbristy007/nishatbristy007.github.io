@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-04-27 11:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Presented [Sc-TUSV-ext](https://www.biorxiv.org/content/10.1101/2023.12.07.570724v1.full.pdf) at [RECOMB-CCB-2024](https://recomb.org/recomb-ccb2024/).
