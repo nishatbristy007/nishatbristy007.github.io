@@ -1,8 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: Website re-building in progress (!).  
+permalink: / 
 profile:
   align: right
   image: prof_pic.jpg
