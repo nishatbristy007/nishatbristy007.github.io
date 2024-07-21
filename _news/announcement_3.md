@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my work, [Sc-TUSV-ext](https://www.biorxiv.org/content/10.1101/2023.12.07.570724v1.full.pdf) at [RECOMB-CCB, 2024](https://recomb.org/recomb-ccb2024/). [[slides]](#)
+Presented my work, [Sc-TUSV-ext](https://www.biorxiv.org/content/10.1101/2023.12.07.570724v1.full.pdf), at [RECOMB-CCB, 2024](https://recomb.org/recomb-ccb2024/). [[slides]](#)
