@@ -18,7 +18,32 @@ social: true # includes social icons at the bottom of the page
 
 I am a third year PhD student in the Ray and Stephanie Lane Computational Biology Department at Carnegie Mellon University. I am fortunate to be advised by [Dr. Russell Schwartz](https://labs.bio.cmu.edu/schwartz/). I am broadly interested in -
 
-<ul>
+<style>
+.custom-list {
+    list-style-type: none; /* Remove default bullets */
+    padding: 0; /* Remove default padding */
+}
+
+.custom-list li {
+    position: relative; /* Position relative for positioning the custom bullet */
+    padding-left: 20px; /* Add space for the custom bullet */
+}
+
+.custom-list li::before {
+    content: ''; /* Use empty content */
+    position: absolute; /* Position the bullet */
+    left: 0; /* Align to the left */
+    top: 50%; /* Center vertically */
+    transform: translateY(-50%); /* Adjust to be centered */
+    width: 10px; /* Bullet width */
+    height: 10px; /* Bullet height */
+    background-color: violet; /* Bullet color */
+    border-radius: 50%; /* Make it circular */
+}
+</style>
+
+
+<ul class="custom-list">
     <li style="color: red;">Developing novel and scalable algorithms to understand tumor progression from multi-omic datasets.</li>
     <li style="color: green;">Identifying structural and functional relationships among DNA and RNA sequences.</li>
 </ul>
@@ -26,12 +51,7 @@ I am a third year PhD student in the Ray and Stephanie Lane Computational Biolog
 
 I have completed my undergraduate studies in Computer Science and Engineering from Bangladesh University of Engineering and Technology, where I worked under the supervision of [Dr. Md. Shamsuzzoha Bayzid](https://cse.buet.ac.bd/faculty/faculty_detail/bayzid). 
 
-Outside work, I enjoy reading and swimming.
-
-
-I have completed my undergraduate studies in Computer Science and Engineering from Bangladesh University of Engineering and Technology, where I worked under the supervision of [Dr. Md. Shamsuzzoha Bayzid](https://cse.buet.ac.bd/faculty/faculty_detail/bayzid). 
-
-Outside work, I enjoy reading and swimming.
+Apart from work, I enjoy swimming and reading.
 
 
 
