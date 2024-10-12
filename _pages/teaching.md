@@ -8,6 +8,7 @@ nav_order: 6
 ---
 ### Teaching Experience
 
+---
 #### Teaching Assistant, Carnegie Mellon University
 
 - **Fall 2023:** Biological Modeling and Simulations (CMU 02-512)
