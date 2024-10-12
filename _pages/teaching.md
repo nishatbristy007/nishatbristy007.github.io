@@ -7,6 +7,25 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Teaching Experience
 
-Organize your courses by years, topics, or universities, however you like!
+#### Lecturer, BRAC University
+
+ - **2022: ** Artificial Intelligence
+   
+---
+
+#### Teaching Assistant, Bangladesh University of Engineering and Technology
+
+ - **2022: ** Structured Programming Language
+
+---
+
+#### Teaching Assistant, Carnegie Mellon University
+
+- **Fall 2023:** Biological Modeling and Simulations
+- **Spring 2024:** Data Structure and Algorithms 
+
+---
+
+
