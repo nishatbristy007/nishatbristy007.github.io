@@ -22,9 +22,9 @@ nav_order: 6
    
 ---
 
-#### Lecturer, Bangladesh University of Engineering and Technology
+#### Adjunct Lecturer, Bangladesh University of Engineering and Technology
 
- - **2022:** Structured Programming Language (CSE101)
+ - **2022:** Structured Programming Language Sessional (CSE102)
 
 ---
 
