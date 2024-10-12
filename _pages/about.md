@@ -21,12 +21,20 @@ I am a third year PhD student in the [Ray and Stephanie Lane Computational Biolo
 <style>
 
 .my-quote {
-    border-left: 4px solid lightgray; /* Left border for visual separation */
-    padding: 10px 15px; /* Reduced padding around the text */
-    margin: 10px 0; /* Reduced vertical spacing */
-    background-color: #f9f9f9; /* Light background color */
-    line-height: 1.5; /* Improved line spacing for readability */
+    border-left: 4px solid lightgray; 
+    padding: 10px 15px; 
+    margin: 10px 0; 
+    background-color: #f9f9f9; 
+    line-height: 1.5; 
     font-size: 16px; 
+}
+
+@media (prefers-color-scheme: dark) {
+    .my-quote {
+        border-left: 4px solid #666;
+        background-color: #333; 
+        color: #ddd; 
+    }
 }
   
 .my-bullet-list {
