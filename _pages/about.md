@@ -60,7 +60,6 @@ I am a third year PhD student in the [Ray and Stephanie Lane Computational Biolo
 }
 </style>
 
-<blockquote>
   <ul class="my-bullet-list">
       <li> Tumor Phylogeny</li>
       <li> Bulk and Single-cell multi-omics</li>   
@@ -68,7 +67,6 @@ I am a third year PhD student in the [Ray and Stephanie Lane Computational Biolo
       <li> Machine Learning for Health</li>
       <li> Discrete and Continuous Optimization Problems</li>
   </ul>
-</blockquote>
 
 I have completed my undergraduate studies in [Computer Science and Engineering](https://cse.buet.ac.bd/) from [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/), where I worked under the supervision of [Dr. Md. Shamsuzzoha Bayzid](https://cse.buet.ac.bd/faculty/faculty_detail/bayzid) on alignment-based and alignment-free phylogenetic distance estimation. 
 
