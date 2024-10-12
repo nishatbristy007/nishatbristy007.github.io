@@ -6,6 +6,7 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 nav_order: 6
 ---
+### Teaching Experience
 
 #### Teaching Assistant, Carnegie Mellon University
 
@@ -14,17 +15,15 @@ nav_order: 6
 
 ---
 
-### Teaching Experience
-
 #### Lecturer, BRAC University
 
- - **2022: ** Artificial Intelligence
+ - **2022:** Artificial Intelligence
    
 ---
 
 #### Lecturer, Bangladesh University of Engineering and Technology
 
- - **2022: ** Structured Programming Language
+ - **2022:** Structured Programming Language
 
 ---
 
