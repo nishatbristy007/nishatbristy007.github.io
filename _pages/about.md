@@ -42,12 +42,12 @@ I am a third year PhD student in the Ray and Stephanie Lane Computational Biolog
 }
 </style>
 
-
-<ul class="my-bullet-list">
-    <li> Developing novel and scalable algorithms to understand tumor progression and biomarker discovery.</li>
-    <li> Understanding structural and functional relationships among DNA and RNA sequences.</li>
-   
-</ul>
+<blockquote class="quote-section">
+  <ul class="my-bullet-list">
+      <li> Developing novel and scalable algorithms to understand tumor progression and biomarker discovery.</li>
+      <li> Understanding structural and functional relationships among DNA and RNA sequences.</li>   
+  </ul>
+</blockquote>
 
 I have completed my undergraduate studies in Computer Science and Engineering from Bangladesh University of Engineering and Technology, where I worked under the supervision of [Dr. Md. Shamsuzzoha Bayzid](https://cse.buet.ac.bd/faculty/faculty_detail/bayzid). 
 
