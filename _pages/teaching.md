@@ -10,20 +10,20 @@ nav_order: 6
 
 #### Teaching Assistant, Carnegie Mellon University
 
-- **Fall 2023:** Biological Modeling and Simulations
-- **Spring 2024:** Data Structure and Algorithms 
+- **Fall 2023:** Biological Modeling and Simulations (CMU 02-512)
+- **Spring 2024:** Algorithms and Advanced Data Structures (CMU 02-613)
 
 ---
 
 #### Lecturer, BRAC University
 
- - **2022:** Artificial Intelligence
+ - **2022:** Artificial Intelligence (CSE322)
    
 ---
 
 #### Lecturer, Bangladesh University of Engineering and Technology
 
- - **2022:** Structured Programming Language
+ - **2022:** Structured Programming Language (CSE101)
 
 ---
 
