@@ -35,6 +35,11 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
+  /* Blockquote style for light theme */
+  --blockquote-bg-color: #f9f9f9;
+  --blockquote-border-color: lightgray;
+  --blockquote-text-color: #333;
+  
   #light-toggle-system {
     padding-left: 10px;
     padding-top: 12px;
@@ -64,6 +69,17 @@
     height: $back-to-top-height;
     width: $back-to-top-width;
     z-index: $back-to-top-z-index;
+  }
+
+  /* Light theme blockquote styling */
+  blockquote {
+    background-color: var(--blockquote-bg-color);
+    border-left: 4px solid var(--blockquote-border-color);
+    color: var(--blockquote-text-color);
+    padding: 10px 15px;
+    margin: 10px 0;
+    line-height: 1.5;
+    font-size: 16px;
   }
 }
 
@@ -105,6 +121,22 @@ html[data-theme="dark"] {
   .repo-img-dark {
     display: block;
   }
+
+  --blockquote-bg-color: #333;
+  --blockquote-border-color: #555;
+  --blockquote-text-color: #ccc;
+
+  /* Dark theme blockquote styling */
+  blockquote {
+    background-color: var(--blockquote-bg-color);
+    border-left: 4px solid var(--blockquote-border-color);
+    color: var(--blockquote-text-color);
+    padding: 10px 15px;
+    margin: 10px 0;
+    line-height: 1.5;
+    font-size: 16px;
+  }
+  
 }
 
 html[data-theme-setting="dark"] {
