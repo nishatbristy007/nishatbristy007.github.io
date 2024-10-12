@@ -15,7 +15,7 @@ nav_order: 6
    
 ---
 
-#### Teaching Assistant, Bangladesh University of Engineering and Technology
+#### Lecturer, Bangladesh University of Engineering and Technology
 
  - **2022: ** Structured Programming Language
 
