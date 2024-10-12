@@ -19,33 +19,34 @@ social: true # includes social icons at the bottom of the page
 I am a third year PhD student in the Ray and Stephanie Lane Computational Biology Department at Carnegie Mellon University. I am fortunate to be advised by [Dr. Russell Schwartz](https://labs.bio.cmu.edu/schwartz/). I am broadly interested in -
 
 <style>
-.custom-list {
-    list-style-type: none; /* Remove default bullets */
-    padding: 0; /* Remove default padding */
+.my-bullet-list {
+    list-style-type: none; 
+    padding: 0; 
 }
 
-.custom-list li {
-    position: relative; /* Position relative for positioning the custom bullet */
-    padding-left: 20px; /* Add space for the custom bullet */
+.my-bullet-list li {
+    position: relative; 
+    padding-left: 20px; 
 }
 
-.custom-list li::before {
-    content: ''; /* Use empty content */
-    position: absolute; /* Position the bullet */
-    left: 0; /* Align to the left */
-    top: 50%; /* Center vertically */
-    transform: translateY(-50%); /* Adjust to be centered */
-    width: 10px; /* Bullet width */
-    height: 10px; /* Bullet height */
-    background-color: violet; /* Bullet color */
-    border-radius: 50%; /* Make it circular */
+.my-bullet-list li::before {
+    content: ''; 
+    position: absolute; 
+    left: 0; 
+    top: 50%; 
+    transform: translateY(-50%); 
+    width: 10px; 
+    height: 10px; 
+    background-color: violet;
+    border-radius: 50%; 
 }
 </style>
 
 
-<ul class="custom-list">
-    <li style="color: red;">Developing novel and scalable algorithms to understand tumor progression from multi-omic datasets.</li>
-    <li style="color: green;">Identifying structural and functional relationships among DNA and RNA sequences.</li>
+<ul class="my-bullet-list">
+    <li> Developing novel and scalable algorithms to understand tumor progression and biomarker discovery.</li>
+    <li> Understanding structural and functional relationships among DNA and RNA sequences.</li>
+    <li> </li>
 </ul>
 
 
