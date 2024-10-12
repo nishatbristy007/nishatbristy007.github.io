@@ -46,7 +46,7 @@ I am a third year PhD student in the Ray and Stephanie Lane Computational Biolog
 <ul class="my-bullet-list">
     <li> Developing novel and scalable algorithms to understand tumor progression and biomarker discovery.</li>
     <li> Understanding structural and functional relationships among DNA and RNA sequences.</li>
-    <li> </li>
+    
 </ul>
 
 
