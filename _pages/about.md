@@ -20,44 +20,19 @@ I am a third year PhD student in the [Ray and Stephanie Lane Computational Biolo
 
 <style>
 
-.my-quote {
-    border-left: 4px solid lightgray; 
-    padding: 10px 15px; 
-    margin: 10px 0; 
-    background-color: #f9f9f9; 
-    line-height: 1.5; 
-    font-size: 16px; 
+blockquote {
+    clear: both;
+    margin-top: 1em; /* Adjust margin as needed */
+    padding: 10px 20px;
+    border-left: 4px solid lightgray;
+    background-color: #f9f9f9;
+    line-height: 1.5;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-    .my-quote {
-        border-left: 4px solid #666;
-        background-color: #333; 
-        color: #ddd; 
-    }
-}
-  
-.my-bullet-list {
-    list-style-type: none; 
-    padding: 0; 
-}
 
-.my-bullet-list li {
-    position: relative; 
-    padding-left: 20px; 
-}
-
-.my-bullet-list li::before {
-    content: ''; 
-    position: absolute; 
-    left: 0; 
-    top: 50%; 
-    transform: translateY(-50%); 
-    width: 10px; 
-    height: 10px; 
-    background-color: #6F4C7A;
-    border-radius: 50%; 
-}
 </style>
 
 <blockquote>
