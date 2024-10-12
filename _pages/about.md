@@ -62,7 +62,7 @@ I am a third year PhD student in the [Ray and Stephanie Lane Computational Biolo
   </ul>
 </blockquote>
 
-I have completed my undergraduate studies in [Computer Science and Engineering](https://cse.buet.ac.bd/) from [Bangladesh University of Engineering and Technology](https://buet.ac.bd), where I worked under the supervision of [Dr. Md. Shamsuzzoha Bayzid](https://cse.buet.ac.bd/faculty/faculty_detail/bayzid) on alignment-based and alignment-free phylogenetic distance estimation. 
+I have completed my undergraduate studies in [Computer Science and Engineering](https://cse.buet.ac.bd/) from [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/), where I worked under the supervision of [Dr. Md. Shamsuzzoha Bayzid](https://cse.buet.ac.bd/faculty/faculty_detail/bayzid) on alignment-based and alignment-free phylogenetic distance estimation. 
 
 Apart from work, I am enthusiastic about swimming and reading.
 
