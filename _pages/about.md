@@ -60,7 +60,7 @@ I am a third year PhD student in the [Ray and Stephanie Lane Computational Biolo
 }
 </style>
 
-<blockquote class="my-quote">
+<blockquote>
   <ul class="my-bullet-list">
       <li> Tumor Phylogeny</li>
       <li> Bulk and Single-cell multi-omics</li>   
