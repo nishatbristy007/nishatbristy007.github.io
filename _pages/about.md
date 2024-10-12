@@ -19,6 +19,15 @@ social: true # includes social icons at the bottom of the page
 I am a third year PhD student in the [Ray and Stephanie Lane Computational Biology Department](https://cbd.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am fortunate to be advised by [Dr. Russell Schwartz](https://labs.bio.cmu.edu/schwartz/). My research interests broadly lie in the area of -
 
 <style>
+
+.my-quote {
+    border-left: 4px solid lightgray; /* Left border for visual separation */
+    padding: 10px 15px; /* Reduced padding around the text */
+    margin: 10px 0; /* Reduced vertical spacing */
+    background-color: #f9f9f9; /* Light background color */
+    line-height: 1.5; /* Improved line spacing for readability */
+}
+  
 .my-bullet-list {
     list-style-type: none; 
     padding: 0; 
@@ -42,7 +51,7 @@ I am a third year PhD student in the [Ray and Stephanie Lane Computational Biolo
 }
 </style>
 
-<blockquote class="quote-section">
+<blockquote class="my-quote">
   <ul class="my-bullet-list">
       <li> Tumor Phylogeny</li>
       <li> Bulk and Single-cell multiomics</li>   
