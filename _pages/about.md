@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a third year PhD student in the Ray and Stephanie Lane Computational Biology Department at Carnegie Mellon University. I am fortunate to be advised by [Dr. Russell Schwartz](https://labs.bio.cmu.edu/schwartz/). I am broadly interested in -
+I am a third year PhD student in the [Ray and Stephanie Lane Computational Biology Department](https://cbd.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am fortunate to be advised by [Dr. Russell Schwartz](https://labs.bio.cmu.edu/schwartz/). I am broadly interested in -
 
 <style>
 .my-bullet-list {
@@ -49,7 +49,7 @@ I am a third year PhD student in the Ray and Stephanie Lane Computational Biolog
   </ul>
 </blockquote>
 
-I have completed my undergraduate studies in Computer Science and Engineering from Bangladesh University of Engineering and Technology, where I worked under the supervision of [Dr. Md. Shamsuzzoha Bayzid](https://cse.buet.ac.bd/faculty/faculty_detail/bayzid). 
+I have completed my undergraduate studies in [Computer Science and Engineering](https://cse.buet.ac.bd/) from [Bangladesh University of Engineering and Technology](buet.ac.bd), where I worked under the supervision of [Dr. Md. Shamsuzzoha Bayzid](https://cse.buet.ac.bd/faculty/faculty_detail/bayzid). 
 
 Apart from work, I am enthusiastic about swimming and reading.
 
