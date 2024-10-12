@@ -45,9 +45,10 @@ I am a third year PhD student in the [Ray and Stephanie Lane Computational Biolo
 <blockquote class="quote-section">
   <ul class="my-bullet-list">
       <li> Tumor Phylogeny</li>
-      <li> Single-cell multiomics</li>   
+      <li> Bulk and Single-cell multiomics</li>   
       <li> Algorithms</li>
       <li> Machine Learning for Health</li>
+      <li> Discrete and Continuous Optimization Problems</li>
   </ul>
 </blockquote>
 
