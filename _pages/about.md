@@ -26,6 +26,7 @@ I am a third year PhD student in the [Ray and Stephanie Lane Computational Biolo
     margin: 10px 0; /* Reduced vertical spacing */
     background-color: #f9f9f9; /* Light background color */
     line-height: 1.5; /* Improved line spacing for readability */
+    font-size: 14px; 
 }
   
 .my-bullet-list {
