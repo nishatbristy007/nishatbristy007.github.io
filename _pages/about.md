@@ -47,7 +47,7 @@ I am a third year PhD student in the [Ray and Stephanie Lane Computational Biolo
     transform: translateY(-50%); 
     width: 10px; 
     height: 10px; 
-    background-color: purple;
+    background-color: #6F4C7A;
     border-radius: 50%; 
 }
 </style>
