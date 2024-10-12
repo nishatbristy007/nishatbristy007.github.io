@@ -18,22 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 I am a third year PhD student in the [Ray and Stephanie Lane Computational Biology Department](https://cbd.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am fortunate to be advised by [Dr. Russell Schwartz](https://labs.bio.cmu.edu/schwartz/). My research interests broadly lie in the area of -
 
-<style>
-
-blockquote {
-    clear: both;
-    margin-top: 1em; /* Adjust margin as needed */
-    padding: 10px 20px;
-    border-left: 4px solid lightgray;
-    background-color: #f9f9f9;
-    line-height: 1.5;
-    font-size: 16px;
-    width: 100%;
-    box-sizing: border-box;
-}
-
-
-</style>
 
 <blockquote>
   <ul>
