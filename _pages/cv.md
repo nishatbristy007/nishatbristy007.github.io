@@ -9,3 +9,9 @@ description:
 toc:
   sidebar: left
 ---
+
+<div class="cv-container">
+    <h1>Curriculum Vitae</h1>
+    
+    <a href="CV_Nishat_Anjum_Bristy_.pdf" class="btn btn-primary" target="_blank">Download CV (PDF)</a>
+</div>
