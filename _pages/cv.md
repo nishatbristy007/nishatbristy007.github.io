@@ -8,13 +8,7 @@ cv_pdf: CV_Nishat_Anjum_Bristy_.pdf
 ---
 
 <div style="border: 1px solid #ccc; padding: 10px; text-align: center;">
-    <a
-            href="{{ 'CV_Nishat_Anjum_Bristy_.pdf' | prepend: 'assets/pdf/' | relative_url}}"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
-          ></a>
+    <iframe src="/nishatbristy007.github.io/assets/pdf/CV_Nishat_Anjum_Bristy_.pdf" width="100%" height="600px"></iframe>
 </div>
 
 [Download CV (PDF)](CV_Nishat_Anjum_Bristy_.pdf)
