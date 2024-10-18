@@ -11,6 +11,6 @@ cv_pdf: CV_Nishat_Anjum_Bristy_.pdf
     <iframe src="/nishatbristy007.github.io/assets/pdf/CV_Nishat_Anjum_Bristy_.pdf" width="100%" height="600px"></iframe>
 </div>
 
-[Download CV (PDF)](CV_Nishat_Anjum_Bristy_.pdf)
+[Download CV (PDF)](/nishatbristy007.github.io/assets/pdf/CV_Nishat_Anjum_Bristy_.pdf)
 
 
