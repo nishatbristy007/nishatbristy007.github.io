@@ -8,7 +8,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>GHC 7505</p>
-    <p>Carngie Mellon University</p>
+    <p>Carnegie Mellon University</p>
     <p>Pittsburgh, PA 15213</p>
 
 news: true # includes a list of news items
