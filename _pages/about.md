@@ -22,6 +22,7 @@ I am a third year PhD student in [School of Computer Science](https://cs.cmu.edu
 <blockquote>
   <ul>
       <li> Machine Learning for Health</li>
+      <li> Computational Cancer Genomics</li>
       <li> Tumor Phylogeny</li> 
       <li> Algorithms</li>
       <li> Bulk and Single-cell multi-omics</li>  
