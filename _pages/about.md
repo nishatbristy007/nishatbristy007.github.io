@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a fourth year PhD student in [School of Computer Science](https://cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am advised by [Dr. Russell Schwartz](https://cbd.cmu.edu/people/schwartz.html). My research interests broadly lie in the area of -
 
-<div style="font-size: 0.45em;">
+
 <blockquote>
   <ul>
       <li> Machine Learning for Health</li>
@@ -30,7 +30,7 @@ I am a fourth year PhD student in [School of Computer Science](https://cs.cmu.ed
   </ul>
 
 </blockquote>
-</div>
+
 I have completed my undergraduate studies in [Computer Science and Engineering](https://cse.buet.ac.bd/) from [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/), where I worked under the supervision of [Dr. Md. Shamsuzzoha Bayzid](https://cse.buet.ac.bd/faculty/faculty_detail/bayzid) on alignment-based and alignment-free phylogenetic distance estimation. 
 
 Apart from work, I am enthusiastic about swimming and reading.
