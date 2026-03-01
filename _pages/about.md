@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a fourth year PhD student in [School of Computer Science](https://cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am advised by [Dr. Russell Schwartz](https://cbd.cmu.edu/people/schwartz.html). My research interests broadly lie in the area of -
 
-<div style="font-size: 0.95em;">
+<div style="font-size: 0.45em;">
 <blockquote>
   <ul>
       <li> Machine Learning for Health</li>
