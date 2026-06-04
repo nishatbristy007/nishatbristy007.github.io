@@ -25,7 +25,7 @@ I am a fourth year PhD student in [School of Computer Science](https://cs.cmu.ed
       <li> Genomic Foundation Models</li>
       <li> Computational Cancer Genomics</li>
       <li> Tumor Phylogeny</li> 
-      <li> Algorithms</li>
+      <li> Algorithms and Optimization</li>
       <li> Bulk and Single-cell multi-omics</li>  
   </ul>
 
