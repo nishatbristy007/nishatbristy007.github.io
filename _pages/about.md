@@ -22,11 +22,11 @@ I am a fourth year PhD student in [School of Computer Science](https://cs.cmu.ed
 <blockquote>
   <ul>
       <li> Machine Learning for Health</li>
+      <li> Genomic Foundation Models</li>
       <li> Computational Cancer Genomics</li>
       <li> Tumor Phylogeny</li> 
       <li> Algorithms</li>
       <li> Bulk and Single-cell multi-omics</li>  
-      <li> Discrete and Continuous Optimization Problems</li>
   </ul>
 
 </blockquote>
